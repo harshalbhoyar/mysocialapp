@@ -1,0 +1,371 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"p",
+				"pending_requests"
+			],
+			[
+				"whe",
+				"where"
+			],
+			[
+				"sent",
+				"sent_by"
+			],
+			[
+				"frie",
+				"friend_request"
+			],
+			[
+				"fir",
+				"friend_sent"
+			],
+			[
+				"for",
+				"form-group"
+			],
+			[
+				"form",
+				"form-group"
+			],
+			[
+				"aut",
+				"autocomplete"
+			],
+			[
+				"tr",
+				"true"
+			],
+			[
+				"lm",
+				"lname"
+			],
+			[
+				"dev",
+				"devise_parameter_sanitizer"
+			],
+			[
+				"in",
+				"index"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"back",
+				"background-color\tproperty"
+			],
+			[
+				"text",
+				"text_field"
+			],
+			[
+				"fro",
+				"form"
+			],
+			[
+				"article",
+				"article_path"
+			],
+			[
+				"art",
+				"article"
+			],
+			[
+				"cust",
+				"cust2"
+			],
+			[
+				"C",
+				"Customer"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/harshal/Imp_Projects/fapp/app/views/layouts/application.html.erb",
+		"/home/harshal/Imp_Projects/fapp/db/migrate/20201212074347_create_friendships.rb",
+		"/home/harshal/Imp_Projects/fapp/app/models/friendship.rb",
+		"/home/harshal/Imp_Projects/fapp/app/controllers/users_controller.rb",
+		"/home/harshal/Imp_Projects/fapp/Gemfile",
+		"/home/harshal/Imp_Projects/fapp/app/models/user.rb",
+		"/home/harshal/Downloads/ROR-spy-bookv2-development/app/assets/images/logo1.png",
+		"/home/harshal/Downloads/ROR-spy-bookv2-development/config/database.yml",
+		"/home/harshal/Imp_Projects/bookstore/config/database.yml",
+		"/home/harshal/Imp_Projects/Post/db/schema.rb",
+		"/home/harshal/Imp_Projects/Post/config/routes.rb",
+		"/home/harshal/Imp_Projects/Post/config/database.yml",
+		"/home/harshal/Imp_Projects/Post/db/seeds.rb",
+		"/home/harshal/rails-devise/app/views/layouts/application.html.erb",
+		"/home/harshal/Imp_Projects/fb/app/controllers/application_controller.rb",
+		"/home/harshal/Imp_Projects/fb/app/controllers/posts_controller.rb",
+		"/home/harshal/Imp_Projects/fb/app/helpers/posts_helper.rb",
+		"/home/harshal/Imp_Projects/fb/app/views/posts/show.html.erb",
+		"/home/harshal/Imp_Projects/fb/app/views/posts/_form.html.erb",
+		"/home/harshal/Imp_Projects/fb/app/views/posts/new.html.erb",
+		"/home/harshal/Imp_Projects/fb/app/models/user.rb",
+		"/home/harshal/Imp_Projects/fb/Gemfile",
+		"/home/harshal/Imp_Projects/fb/app/assets/stylesheets/application.scss",
+		"/home/harshal/Imp_Projects/fb/config/environments/development.rb",
+		"/home/harshal/Imp_Projects/mini_fb/config/database.yml",
+		"/home/harshal/Notes/My_notes",
+		"/home/harshal/Imp_Projects/mini_fb/config/environments/development.rb",
+		"/home/harshal/Imp_Projects/mini_fb/config/routes.rb",
+		"/home/harshal/Imp_Projects/mini_fb/Gemfile",
+		"/home/harshal/Imp_Projects/Navbar/Gemfile",
+		"/home/harshal/Imp_Projects/Navbar/config/routes.rb",
+		"/home/harshal/Imp_Projects/Navbar/app/assets/javascripts/application.js",
+		"/home/harshal/Imp_Projects/Navbar/app/assets/stylesheets/application.scss",
+		"/home/harshal/Imp_Projects/Navbar/config/database.yml",
+		"/home/harshal/Imp_Projects/article/app/views/welcome/index.html.erb",
+		"/home/harshal/Imp_Projects/article/Gemfile",
+		"/home/harshal/Imp_Projects/article/app/assets/stylesheets/custom.css.scss",
+		"/home/harshal/Imp_Projects/article/app/assets/javascripts/application.js",
+		"/home/harshal/Imp_Projects/article/app/views/books/_form.html.erb",
+		"/home/harshal/Imp_Projects/article/app/views/books/index.html.erb",
+		"/home/harshal/Imp_Projects/article/app/views/books/edit.html.erb",
+		"/home/harshal/Imp_Projects/article/app/views/books/new.html.erb",
+		"/home/harshal/Imp_Projects/article/app/views/books/show.html.erb",
+		"/home/harshal/rails-bootstrap/config/webpacker.yml",
+		"/home/harshal/Imp_Projects/shop/app/controllers/sessions_controller.rb",
+		"/home/harshal/Imp_Projects/shop/app/controllers/application_controller.rb",
+		"/home/harshal/Imp_Projects/shop/app/views/home/index.html.erb",
+		"/home/harshal/Imp_Projects/shop/config/routes.rb",
+		"/home/harshal/Imp_Projects/shop/app/views/sessions/new.html.erb",
+		"/home/harshal/Imp_Projects/shop/app/views/users/edit.html.erb",
+		"/home/harshal/Imp_Projects/composer/Gemfile",
+		"/home/harshal/Imp_Projects/shop/Gemfile",
+		"/home/harshal/Imp_Projects/shop/config/database.yml",
+		"/home/harshal/Imp_Projects/shop/app/models/user.rb",
+		"/home/harshal/Imp_Projects/form/config/database.yml",
+		"/home/harshal/Imp_Projects/form/app/views/comments/_form.html.erb",
+		"/home/harshal/Imp_Projects/form/app/views/articles/new.html.erb",
+		"/home/harshal/Imp_Projects/form/app/views/articles/_form.html.erb",
+		"/home/harshal/Imp_Projects/form/app/views/articles/show.html.erb",
+		"/home/harshal/Imp_Projects/form/config/routes.rb",
+		"/home/harshal/Imp_Projects/form/app/controllers/articles_controller.rb",
+		"/home/harshal/Imp_Projects/form/app/views/articles/edit.html.erb",
+		"/home/harshal/Imp_Projects/form/app/models/article.rb",
+		"/home/harshal/Imp_Projects/form/app/views/articles/index.html.erb",
+		"/home/harshal/Imp_Projects/form/db/migrate/20201117173859_add_author_to_articles.rb",
+		"/home/harshal/Imp_Projects/form/app/views/comments/_comment.html.erb",
+		"/home/harshal/Imp_Projects/form/app/models/comment.rb",
+		"/home/harshal/Imp_Projects/form/db/schema.rb",
+		"/home/harshal/Imp_Projects/form/app/controllers/comments_controller.rb",
+		"/home/harshal/Imp_Projects/form/app/views/welcome/index.html.erb",
+		"/home/harshal/Imp_Projects/form/db/migrate/20201117055918_create_articles.rb",
+		"/home/harshal/Imp_Projects/blog/config/database.yml",
+		"/home/harshal/Imp_Projects/form/Gemfile",
+		"/home/harshal/Imp_Projects/blog/app/views/articles/new.html.erb",
+		"/home/harshal/Imp_Projects/blog/app/models/article.rb",
+		"/home/harshal/Imp_Projects/blog/app/views/articles/show.html.erb",
+		"/home/harshal/Imp_Projects/blog/app/views/welcome/index.html.erb",
+		"/home/harshal/Imp_Projects/blog/app/views/articles/index.html.erb",
+		"/home/harshal/Imp_Projects/blog/app/views/articles/_form.html.erb",
+		"/home/harshal/Imp_Projects/blog/app/views/articles/edit.html.erb",
+		"/home/harshal/Imp_Projects/blog/app/controllers/articles_controller.rb",
+		"/home/harshal/Imp_Projects/blog/config/routes.rb",
+		"/home/harshal/Imp_Projects/blog/Gemfile",
+		"/home/harshal/form/blog/app/views/welcome/index.html.erb",
+		"/home/harshal/form/blog/config/routes.rb",
+		"/home/harshal/form/blog/app/controllers/articles_controller.rb",
+		"/home/harshal/form/blog/app/views/articles/show.html.erb",
+		"/home/harshal/form/blog/db/migrate/20201116125844_create_articles.rb",
+		"/home/harshal/form/blog/app/views/articles/new.html.erb",
+		"/home/harshal/ruby/blog/app/views/articles/new.html.erb",
+		"/home/harshal/ruby/blog/app/views/articles/show.html.erb",
+		"/home/harshal/ruby/blog/app/views/welcome/index.html.erb",
+		"/home/harshal/ruby/blog/config/routes.rb",
+		"/home/harshal/ruby/blog/app/controllers/articles_controller.rb",
+		"/home/harshal/Imp_Projects/RestAPI/app/models/item.rb",
+		"/home/harshal/Imp_Projects/RestAPI/app/models/todo.rb",
+		"/home/harshal/Imp_Projects/RestAPI/spec/models/todo_spec.rb",
+		"/home/harshal/Imp_Projects/RestAPI/spec/support/request_spec_helper.rb",
+		"/home/harshal/Imp_Projects/RestAPI/spec/factories/todos.rb",
+		"/home/harshal/Imp_Projects/RestAPI/db/migrate/20201114055520_create_items.rb",
+		"/home/harshal/Imp_Projects/RestAPI/Gemfile",
+		"/home/harshal/Imp_Projects/RestAPI/spec/rails_helper.rb",
+		"/home/harshal/Imp_Projects/RestAPI/spec/spec_helper.rb",
+		"/home/harshal/Imp_Projects/RestAPI/spec/factories/items.rb",
+		"/home/harshal/Imp_Projects/RestAPI/spec/requests/todos_spec.rb",
+		"/home/harshal/AndroidStudioProjects/My_first_app/app/src/main/AndroidManifest.xml",
+		"/home/harshal/ruby/hash.rb",
+		"/home/harshal/ruby/str.rb",
+		"/home/harshal/ruby/cont.rb",
+		"/home/harshal/ruby/cust.rb",
+		"/home/harshal/ruby/new.rb",
+		"/home/harshal/Desktop/Imp Projects/devendrabobde-iasupscprelim2015_test_app-87e6d5f1024f/Gemfile",
+		"/home/harshal/Desktop/ruby/new.rb",
+		"/home/harshal/Desktop/show.html",
+		"/home/harshal/Desktop/index_copy.html",
+		"/home/harshal/Desktop/webapplication/crudapplication/static/css/Importanat notes",
+		"/home/harshal/Desktop/webapplication/crudapplication/static/css/daily notes",
+		"/home/harshal/Desktop/webapplication/crudapplication/static/css/ruby project",
+		"/home/harshal/Desktop/webapplication/crudapplication/static/css/style.css",
+		"/home/harshal/Desktop/practice/1.html",
+		"/home/harshal/Desktop/edit.html",
+		"/home/harshal/Desktop/webapplication/crudapplication/static/css/hello.rb",
+		"/home/harshal/.cache/.fr-841dPs/Election/style.css",
+		"/home/harshal/.cache/.fr-FSay1S/Election/style.css",
+		"/home/harshal/Downloads/bootstrap-4.0.0/assets/css/docs.min.css",
+		"/home/harshal/Downloads/bootstrap-4.0.0/assets/css/learn",
+		"/home/harshal/Desktop/index.html"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "Gemfile.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 312.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
