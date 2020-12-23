@@ -12,8 +12,8 @@ gem 'jquery-rails'
 # Use postgresql as the database for Active Record
 # gem 'pg', '>= 0.18', '< 2.0'
 # Rubocop
-gem 'mysql2', '>= 0.4.4', '< 0.6.0'
 
+gem 'pg'
 gem 'rubocop'
 # Devise security gem
 gem 'devise'
@@ -51,6 +51,7 @@ gem 'bootsnap', '>= 1.4.2', require: false
 
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
+  gem 'mysql2', '>= 0.4.4', '< 0.6.0'
   gem 'byebug', platforms: %i[mri mingw x64_mingw]
   # RSpec Testing
   gem 'database_cleaner'
