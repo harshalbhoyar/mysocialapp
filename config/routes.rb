@@ -11,6 +11,8 @@ Rails.application.routes.draw do
   end
   put '/users/:id', to:  'users#update_img'
   get '/saw_notification', to: 'users#saw_notification', as: 'saw_notice'
+  get '/auth/:provider/callback' => 'sessions#googleauth'
+  get 'auth/failure', to: redirect('/')
 
   resources :posts, only: %i[index new create show destroy] do
       resources :likes, only: %i[create]

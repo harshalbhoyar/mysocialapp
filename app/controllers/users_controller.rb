@@ -16,7 +16,7 @@ class UsersController < ApplicationController
       redirect_back(fallback_location: users_path(current_user))
       return
     end
-
+  
     image = params[:user][:image] unless params[:user].nil?
     if image
       @user.image = image

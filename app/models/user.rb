@@ -53,6 +53,15 @@ class User < ApplicationRecord
     end
   end
 
+  def self.from_omniauth(auth)
+    # Creates a new user only if it doesn't exist
+    where(email: auth.info.email).first_or_initialize do |user|
+      user.name = auth.info.name
+      user.email = auth.info.email
+    end
+  end
+
+
   def self.new_with_session(params, session)
     super.tap do |user|
       if (data = session['devise.facebook_data'] && session['devise.facebook_data']['extra']['raw_info'])

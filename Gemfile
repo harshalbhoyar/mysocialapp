@@ -12,6 +12,7 @@ gem 'jquery-rails'
 # Use postgresql as the database for Active Record
 # gem 'pg', '>= 0.18', '< 2.0'
 # Rubocop
+gem 'omniauth'
 
 gem 'pg'
 gem 'rubocop'
