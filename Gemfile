@@ -13,6 +13,7 @@ gem 'jquery-rails'
 # gem 'pg', '>= 0.18', '< 2.0'
 # Rubocop
 gem 'omniauth'
+gem 'omniauth-google-oauth2'
 
 gem 'pg'
 gem 'rubocop'
