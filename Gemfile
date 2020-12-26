@@ -9,6 +9,8 @@ gem 'rails', '~> 6.0.2', '>= 6.0.2.1'
 gem 'bootstrap', '~> 4.4.1'
 # Jquery Rails
 gem 'jquery-rails'
+
+gem 'thin'
 # Use postgresql as the database for Active Record
 # gem 'pg', '>= 0.18', '< 2.0'
 # Rubocop
@@ -27,7 +29,7 @@ gem 'faker', git: 'https://github.com/faker-ruby/faker.git', branch: 'master'
 gem 'carrierwave', '~> 2.0'
 gem 'mini_magick'
 # Use Puma as the app server
-gem 'puma', '~> 4.1'
+#gem 'puma', '~> 4.1'
 # Use Hirb to organize data in console
 gem 'hirb'
 # Use omniauth-facebook to do a login with facebook account

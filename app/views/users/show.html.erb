@@ -1,7 +1,7 @@
 <h1>
   <%= @user.full_name%>
   <br>
-  <%= @user.dob.strftime("%d %b %Y")%>
+  <%= @user.dob.strftime("%d %b %Y") if @user.dob? %>
 
 </h1>
 
@@ -20,6 +20,7 @@
 
   </div>
 </div>
+<%= link_to "Edit", edit_user_registration_path %>
 
 
 <h2 class="center mt-5 font-weight-bold border-top pt-5 ">Posts</h2>
