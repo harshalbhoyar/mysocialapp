@@ -2,7 +2,7 @@
   <%= @user.full_name%>
   <br>
   <%= @user.dob.strftime("%d %b %Y") if @user.dob? %>
-
+  <%= @user.education if @user.education?%>
 </h1>
 
 <div class="row">
